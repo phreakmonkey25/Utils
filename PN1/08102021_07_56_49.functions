@@ -1,0 +1,6 @@
+Replacing: Invoke-Nightmare with: scanting
+Replacing: get_nightmare_dll with: difference
+Replacing: New-InMemoryModule with: feisty
+Replacing: Add-Win32Type with: bunny
+Replacing: psenum with: embroil
+Replacing: struct with: charioteer
